@@ -1,1 +1,3 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+I am going to add some text on the second line of alice.txt!
+Now I am going to add a third line.
