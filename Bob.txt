@@ -1,2 +1,6 @@
-Hi! I'm Bob. Where are you? I've been here for a while now.
+<<<<<<< HEAD
+Hi! I'm Bob. Second Try! I've been here for a while now.
+=======
+Hi! I'm Bob. Second Try! I've been here for a while now.
+>>>>>>> bobby_branch
 Bob is a cool guy.
