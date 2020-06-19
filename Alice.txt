@@ -3,4 +3,5 @@ I am going to add some text on the second line of alice.txt!
 Now I am going to add a third line.
 
 I'm making this change on github. 
-
+How is the weather today?
+Yesturday it was sunny.:
