@@ -1,8 +1,6 @@
-Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-<<<<<<< HEAD
+Hi! I'm Alice. I'm a file someone added to this repository today!
 I am going to add some text on the second line of alice.txt!
 Now I am going to add a third line.
-I'm making this change on github.
-=======
+
 I'm making this change on github. 
->>>>>>> 1d55ba8a742aabae713b8bce796f1ade1ffe4afb
+
